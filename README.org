@@ -1,0 +1,4 @@
+* =zotonic-tpl-mode=
+  Emacs support for the zotonic template language.
+
+  Original file can be found here: https://github.com/zotonic/zotonic/master/priv/emacs/zotonic-tpl-mode.el
